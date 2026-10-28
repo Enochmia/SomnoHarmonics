@@ -1,7 +1,7 @@
 # SomnoHarmonics
 
 > **A lightweight, AI-free procedural soundscape engine powered by classical counterpoint and real-time sleep-onset tracking.**  
-> **Korean version of [README.md](https://github.com/Enochmia/SomnoHarmonics/edit/main/README_KR.md)**  
+> **Korean version of [README.md](https://github.com/Enochmia/SomnoHarmonics/main/README_KR.md)**  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Language](https://img.shields.io/badge/Language-Python%20%7C%20C%2FC%2B%2B-blue.svg)]()
